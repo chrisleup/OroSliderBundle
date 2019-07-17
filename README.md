@@ -10,14 +10,14 @@ Installation
 -------------------
 1. Install via Composer
 
-Add repository in composer :
+Add repository in composer.json :
 
     (...)
     'repositories": {
     
-     "friendsoforo/oro-recaptcha-bundle": {
+     "friendsoforo/oro-slider-bundle": {
        "type": "vcs",
-       "url": "git@github.com:FriendsOfOro/OroRecaptchaBundle.git"
+       "url": "git@github.com:FriendsOfOro/OroSliderBundle.git"
      }
     (...)
 
